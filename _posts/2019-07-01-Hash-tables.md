@@ -1,6 +1,6 @@
 ---
 title: Searching Techniques
-date: 2018-07-01 14:00:00 +0100
+date: 2019-07-01 14:00:00 +0100
 categories: [Blogging, Computer Science]
 tags: [data_structures]
 ---

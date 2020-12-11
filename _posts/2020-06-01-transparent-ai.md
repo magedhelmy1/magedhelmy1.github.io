@@ -1,6 +1,6 @@
 ---
 title: Why Designing Transparent AI Matters?
-date: 2019-06-01 14:00:00 +0100
+date: 2020-06-01 14:00:00 +0100
 categories: [Blogging, Deep Learning]
 tags: [ai]
 ---

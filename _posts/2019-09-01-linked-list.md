@@ -1,6 +1,6 @@
 ---
 title: Linked List
-date: 2018-09-01 14:00:00 +0100
+date: 2019-09-01 14:00:00 +0100
 categories: [Blogging, Computer Science]
 tags: [data_structures]
 ---

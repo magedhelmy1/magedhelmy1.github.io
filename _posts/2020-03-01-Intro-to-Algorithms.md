@@ -1,6 +1,6 @@
 ---
 title: What are Algorithms?
-date: 2018-03-01 14:00:00 +0100
+date: 2020-03-01 14:00:00 +0100
 categories: [Blogging, Computer Science]
 tags: [algorithms]
 ---
