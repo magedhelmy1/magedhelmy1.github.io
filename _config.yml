@@ -26,8 +26,8 @@ avatar: /assets/img/sample/avatar.jpg   # support internet resources
 github:
   username: magedhelmy1             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+  #username: twitter_username            # change to your twitter username
 
 social:
   name: Maged Helmy                  # it will shows as the copyright owner in Footer
