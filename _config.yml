@@ -7,9 +7,9 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Maged Helmy                      # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Machine Learning Engineer # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -17,28 +17,28 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'http://magedhelmy1.github.io'
 
-author: your_full_name                  # change to your full name
+author: Maged Helmy             # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: magedhelmy1             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Maged Helmy                  # it will shows as the copyright owner in Footer
+  email: maged.helmy1@outlook.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    #- https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/magedhelmy1       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/helmy47/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -49,7 +49,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Oslo
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
@@ -63,8 +63,8 @@ google_analytics:
     cache: false  # pv data local cache, good for the users from GFW area.
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: 'web-pbvam5rs3r'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
 # Prefer color scheme setting.
@@ -79,12 +79,12 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # <light|dark>
+theme_mode: dark  # <light|dark>
 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
-paginate: 10
+paginate: 50
 
 kramdown:
   syntax_highlighter: rouge
