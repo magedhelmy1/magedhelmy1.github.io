@@ -1,6 +1,6 @@
 ---
 title: Practice Linked List with Python Code
-date: 2020-09-01 14:00:00 +0100
+date: 2020-10-01 14:00:00 +0100
 categories: [Blogging, Computer Science]
 tags: [linked_list]
 ---
