@@ -1,6 +1,5 @@
 ---
 title: Dijkstra Shortest Path
-author: Maged Helmy
 date: 2019-03-01 14:00:00 +0100
 categories: [Blogging, Computer Science]
 tags: [algorithms]
